@@ -1,0 +1,65 @@
+{
+  "name": "malaikah-specialists-clinics",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.16",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.24.0",
+    "bootstrap": "^5.1.1",
+    "cloudinary-react": "^1.7.1",
+    "dotenv": "^10.0.0",
+    "formik": "^2.2.9",
+    "get-youtube-id": "^1.0.1",
+    "google-maps-react": "^2.0.6",
+    "ityped": "^1.0.3",
+    "jquery": "^3.6.0",
+    "materialize-css": "^1.0.0-rc.2",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.0.0-rc.0",
+    "react-dom": "^17.0.2",
+    "react-elastic-carousel": "^0.11.5",
+    "react-google-maps": "^9.4.5",
+    "react-icons": "^4.3.1",
+    "react-responsive": "^9.0.0-beta.5",
+    "react-router": "^6.0.0-beta.0",
+    "react-router-bootstrap": "^0.25.0",
+    "react-router-dom": "^6.2.1",
+    "react-scripts": "4.0.3",
+    "react-share": "^4.4.0",
+    "react-toastify": "^8.1.1",
+    "react-validation": "^3.0.7",
+    "react-youtube": "^7.13.1",
+    "validator": "^13.7.0",
+    "web-vitals": "^1.1.2",
+    "yup": "^0.32.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

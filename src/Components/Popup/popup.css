@@ -1,0 +1,46 @@
+.popicon {
+    position: fixed;
+    background: transparent;
+    top: 85%;
+    right: 0;
+  }
+  .popup {
+    width: 60px;
+    height: 60px;
+  }
+  #PopModel {
+    background-color: #ffffff;
+  }
+
+  #popuptitle {
+    color: #020e20;
+    margin-left: 30px;
+    font-size: 25px;
+  }
+
+  #talktodocbtn {
+    background-color: #020e20;
+    width: 96%;
+    height: 50%;
+    border: none;
+    left: 20px;
+    margin-left: 10px;
+  }
+
+  .talktodoc {
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 10px;
+  }
+
+  .whatsappicon {
+    position: fixed;
+    background: transparent;
+    top: 85%;
+    left: 0;
+  }
+  .whatsapp {
+    width: 60px;
+    height: 60px;
+  }

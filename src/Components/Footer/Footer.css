@@ -1,0 +1,14 @@
+.footer {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #20c997;
+    padding: 2% 4%;
+    width: 100%;
+    height: auto;
+    color: #ffffff;
+  }
+  .footer-li {
+    list-style-type: none;
+    color: #ffffff;
+    text-decoration: none;
+  }
